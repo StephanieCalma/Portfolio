@@ -1,4 +1,4 @@
 Use-agents*
 Allow: /
 
-Sitemap: https://portfoliocalma.netlify.app/sitemap.xml
+Sitemap:https://portfoliocalma.netlify.app//sitemap.xml
